@@ -1,0 +1,4 @@
+hello, I am a student at plp
+We are creating a program on file handling and exception handling.
+my program will copitalize or convert the content into title cases and write it into a new file
+i have these four lines of text.
